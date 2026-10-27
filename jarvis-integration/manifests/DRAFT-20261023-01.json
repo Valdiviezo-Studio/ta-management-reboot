@@ -1,0 +1,29 @@
+{
+  "kind": "jarvis-homepage-handoff",
+  "version": 1,
+  "handoffId": "b73d49fe537a97938935",
+  "draftId": "DRAFT-20261023-01",
+  "sourceRevision": "2026-10-24T12:35:41.012Z",
+  "projectHash": "9dd7ffaae339c6f8d65a57ae353d87e1f2051d47608c2ebdd25b36e6a0f54d9c",
+  "createdAt": "2026-10-26T22:29:36.060Z",
+  "path": "/karriere/projektleiter-hochbau-nrw/",
+  "proposedUrl": "https://ta-management.de/karriere/projektleiter-hochbau-nrw/",
+  "branch": "codex/jarvis-homepage-handoff",
+  "state": "local_review",
+  "files": {
+    "karriere/projektleiter-hochbau-nrw/assets/background.png": "fc145b45013d42094d677e8935912632d998334c427f9b2c036101b56e368956",
+    "karriere/projektleiter-hochbau-nrw/assets/style.css": "f0fc657a730e4b832e7813da73a2cf8bc32fef352aa6a2ab05dcd2462dc5c661",
+    "karriere/projektleiter-hochbau-nrw/assets/form.js": "4b9de6279d5ee5e062c076278b6817815bc39c4e800b3423312c7095249184c3",
+    "karriere/projektleiter-hochbau-nrw/index.html": "c041a900c045e217d0a3002046faa1abf04584c27d20b9cc7220ca278ad39726",
+    "jarvis-integration/jobs/projektleiter-hochbau-nrw.json": "ab37edec4c4a7bb6d9f9b0e5d5eff980c196d233c1e0c12fcb724f026ef0b6a3",
+    "jarvis-integration/briefs/DRAFT-20261023-01.md": "70593049fda44cb62552d3749a5730f1e1d2a83798f778fdd3400df42c32989a"
+  },
+  "sharedFiles": {
+    "jarvis-integration/build.mjs": "102630a13bf5c0a22c99a22d176a542b819f09680d79655ceb2ee7e578ace4fe",
+    "jarvis-integration/validation.mjs": "7192889ab50e2c7cbfac0a80cbd9c4b6cc3b5fb31cbbbb57a8304dd7eeee2739",
+    "netlify/functions/jarvis-apply.mjs": "c833566bbf10c71e659631f5779f7da1c8e9d3ae6e469911c5f84cb644ad6c23",
+    "netlify.toml": "06e848ffb48f3a58840977b1f7182bb16f9fcd13c14c6e5935076f5227947c5e",
+    "jarvis-integration/landingpages-headers.txt": "658b23f9e4d15ba0727d65c7cd59fba4450300665a13f71aa095bce0178f090c",
+    ".gitignore": "4b2d293d611c590e01eeb55ab5202c666a8b9284a79bf5366c38822a3b9f074d"
+  }
+}

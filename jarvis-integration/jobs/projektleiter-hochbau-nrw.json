@@ -1,0 +1,254 @@
+{
+  "kind": "jarvis-homepage-page",
+  "version": 1,
+  "draftId": "DRAFT-20261023-01",
+  "revision": "cc98e908a166f5f58281",
+  "mode": "preview",
+  "path": "/karriere/projektleiter-hochbau-nrw/",
+  "job": {
+    "slug": "projektleiter-hochbau-nrw",
+    "draftProvenance": {
+      "strategyRegion": "NRW",
+      "strategyType": "campaign-strategy",
+      "reviewRequired": true
+    },
+    "meta": {
+      "title": "Projektleiter Hochbau (m/w/d) – TA Management",
+      "description": "Projektleiter Hochbau in NRW. Unverbindlich und vertraulich über die Position informieren."
+    },
+    "eyebrowBadges": [
+      {
+        "label": "NRW",
+        "variant": "accent"
+      },
+      {
+        "label": "Hochbau",
+        "variant": "default"
+      }
+    ],
+    "headline": "Projektleiter Hochbau",
+    "heroSubheadline": "Kosten. Termine. Qualität. Und wer entscheidet?",
+    "jobTitleLine": "Projektleiter Hochbau",
+    "jobTitleSuffix": "(m/w/d)",
+    "subheadline": "Als Projektleiter Hochbau hältst du vieles zusammen. Vor einem Wechsel lohnt sich deshalb ein genauer Blick: Welche Entscheidungen liegen bei dir, welche bei anderen?",
+    "facts": [
+      {
+        "label": "Standort",
+        "value": "NRW",
+        "variant": "accent"
+      },
+      {
+        "label": "Bereich",
+        "value": "Hochbau",
+        "variant": "default"
+      }
+    ],
+    "location": "NRW",
+    "leadIngest": {
+      "formId": "ta-recruiting-landingpage",
+      "formName": "TA Management Recruiting Landingpage",
+      "platform": "landingpage"
+    },
+    "heroImage": {
+      "kind": "image",
+      "src": "./assets/background.png",
+      "alt": "Projektleiter Hochbau – Stellenbild",
+      "caption": "Generierte Beispielsituation · kein Foto eines konkreten Arbeitgebers"
+    },
+    "ctaLabel": "Rahmenbedingungen ansehen",
+    "differencesHeadline": "Gleicher Titel. Andere Zuständigkeiten.",
+    "differences": [
+      {
+        "n": "01",
+        "title": "Alles gleichzeitig.",
+        "note": "Termine, Kosten und Entscheidungen drücken oft zur selben Zeit. Dazu kommt Absicherungsdokumentation, die Zeit für die eigentliche Steuerung kostet."
+      },
+      {
+        "n": "02",
+        "title": "Steuern oder koordinieren?",
+        "note": "Hinter Projektleitung kann Gesamtverantwortung stehen – oder Koordination ohne echte Befugnisse. Budget, Vergaben und Nachträge gehören vor einem Wechsel auf den Tisch."
+      },
+      {
+        "n": "03",
+        "title": "Dein Projekt läuft noch?",
+        "note": "Viele Projektleiter hängen an ihren laufenden Bauvorhaben. Ein vertrauliches Gespräch verpflichtet dich zu nichts – du entscheidest, ob und wann es weitergeht."
+      }
+    ],
+    "tasksEyebrow": "Allgemeine Rollenrecherche",
+    "tasksHeadline": "Darum geht es in der Projektleitung",
+    "tasks": [
+      "Projektleitung im Hochbau umfasst marktseitig die Gesamtsteuerung von Bauprojekten in Kosten, Terminen und Qualität, orientiert an HOAI und AHO Heft Nr. 9.",
+      "Die Arbeitsrealität ist von gleichzeitigem Termin-, Kosten- und Entscheidungsdruck sowie hoher Aufgabenvielfalt geprägt.",
+      "Es besteht ein Mismatch am Arbeitsmarkt NRW zwischen der Zahl Arbeitsloser und den spezifischen Profilanforderungen an qualifizierte Projektleiter Hochbau mit VOB/B-Sicherheit."
+    ],
+    "tasksToggleLabel": "Alle Aufgaben im Detail",
+    "tasksToggleLabelOpen": "Details schließen",
+    "tasksDetail": [],
+    "mustsHeadline": "Das solltest du mitbringen",
+    "musts": [
+      "Konkrete Anforderungen werden noch geprüft."
+    ],
+    "niceHeadline": "Weitere Anforderungen",
+    "nice": [],
+    "niceFootnote": "Nicht genannte Anforderungen sind noch zu klären.",
+    "benefits": {
+      "eyebrow": "Deine Benefits",
+      "headline": "Was zur Stelle bekannt ist.",
+      "intro": "Konkrete Vorteile wurden noch nicht bestätigt.",
+      "items": [
+        {
+          "title": "Dein Vorteil",
+          "value": "Konkrete Vorteile sind noch nicht bestätigt.",
+          "note": ""
+        }
+      ],
+      "ctaLabel": "Rahmenbedingungen ansehen"
+    },
+    "processHeadline": "So läuft es ab",
+    "process": [
+      {
+        "title": "Kurze Anfrage",
+        "text": "2 Fragen und deine Kontaktdaten."
+      },
+      {
+        "title": "Gespräch mit uns",
+        "text": "Position, Anforderungen und deine Fragen."
+      },
+      {
+        "title": "Vorstellung mit deiner Zustimmung",
+        "text": "Erst wenn die Position für dich passt."
+      }
+    ],
+    "taReasonsHeadline": "Du prüfst die Stelle.\nWir kümmern uns um den Rest.",
+    "taReasons": [
+      {
+        "n": "01",
+        "title": "Persönlicher Ansprechpartner"
+      },
+      {
+        "n": "02",
+        "title": "Diskreter Austausch"
+      },
+      {
+        "n": "03",
+        "title": "Begleitung bis zum Gespräch mit dem Unternehmen"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich einen Lebenslauf?",
+        "a": "Du kannst die Anfrage mit den kurzen Fragen starten. Ob weitere Unterlagen nötig sind, klären wir im Gespräch."
+      },
+      {
+        "q": "Ist meine Anfrage vertraulich?",
+        "a": "Ja. Vorgestellt wirst du erst nach deiner ausdrücklichen Zustimmung."
+      },
+      {
+        "q": "Was passiert nach meiner Anfrage?",
+        "a": "Wir besprechen die Position, deine Fragen und die nächsten Schritte persönlich."
+      }
+    ],
+    "closing": {
+      "defaultHeadline": "Wechsel erst, wenn die Antworten passen.",
+      "startedHeadline": "Prüfung fortsetzen",
+      "submittedHeadline": "Anfrage ist raus",
+      "defaultText": "Sieh dir die Aufgaben an und kläre die Bedingungen, die dir wichtig sind.",
+      "startedText": "Deine Antworten sind gespeichert.",
+      "submittedText": "Wir melden uns persönlich bei dir.",
+      "defaultCta": "Rahmenbedingungen ansehen",
+      "startedCta": "Prüfung fortsetzen",
+      "submittedCta": "Zur Bestätigung"
+    },
+    "funnel": {
+      "steps": [
+        {
+          "key": "preferred_work_location",
+          "cardTitle": "Wunschregion",
+          "question": "In welcher Stadt oder Region möchtest du arbeiten?",
+          "type": "text",
+          "required": true,
+          "autoAdvance": false,
+          "requiredMessage": "Bitte trage deine Antwort ein.",
+          "options": []
+        },
+        {
+          "key": "experience_years",
+          "cardTitle": "Berufserfahrung",
+          "question": "Wie viel Erfahrung bringst du in der Projektleitung Hochbau mit?",
+          "type": "single",
+          "required": true,
+          "autoAdvance": true,
+          "requiredMessage": "Bitte wähle eine Antwort.",
+          "options": [
+            {
+              "value": "noch-keine",
+              "label": "Noch keine"
+            },
+            {
+              "value": "bis-2-jahre",
+              "label": "Bis 2 Jahre"
+            },
+            {
+              "value": "2-5-jahre",
+              "label": "2–5 Jahre"
+            },
+            {
+              "value": "uber-5-jahre",
+              "label": "Über 5 Jahre"
+            }
+          ]
+        }
+      ],
+      "contact": {
+        "cardTitle": "Kontakt",
+        "question": "Wie erreichen wir dich für einen vertraulichen Rollencheck?",
+        "hint": "E-Mail und Telefonnummer für den persönlichen Rückruf.",
+        "privacyText": "Deine Angaben behandeln wir vertraulich. Eine Vorstellung erfolgt erst nach deiner Zustimmung.",
+        "namePlaceholder": "Vor- und Nachname",
+        "phonePlaceholder": "Telefonnummer",
+        "emailPlaceholder": "E-Mail-Adresse",
+        "emailRequired": true,
+        "phoneRequired": true,
+        "consentText": "TA Management verarbeitet meine Angaben zur Bearbeitung meiner Anfrage und darf mich zu dieser Position kontaktieren.",
+        "consentLinkLabel": "Datenschutz",
+        "consentLinkHref": "/datenschutz",
+        "candidatePrivacyLinkLabel": "Kandidaten-Datenschutz",
+        "candidatePrivacyLinkHref": "/dsgvo",
+        "submitLabel": "Rollencheck anfragen",
+        "submittingLabel": "Wird gesendet …",
+        "messages": {
+          "name": "Bitte gib deinen Vor- und Nachnamen an.",
+          "phoneOrEmail": "Bitte hinterlasse eine Telefonnummer oder E-Mail-Adresse.",
+          "emailRequired": "Bitte gib eine E-Mail-Adresse ein.",
+          "invalidEmail": "Diese E-Mail-Adresse sieht nicht vollständig aus.",
+          "consent": "Bitte bestätige den Hinweis zur Kontaktaufnahme."
+        }
+      },
+      "successTitle": "Danke für deine Anfrage.",
+      "successText": "Wir melden uns persönlich bei dir und besprechen die Position und deine Fragen.",
+      "leadFieldMap": {
+        "qualificationStepKey": "qualification",
+        "areasStepKey": "areas",
+        "experienceStepKey": "experience_years",
+        "hospitalExperienceStepKey": null
+      }
+    },
+    "recruiterId": "waldemar",
+    "recruiterProfile": {
+      "id": "builder-contact",
+      "name": "Dein Ansprechpartner",
+      "role": "Persönlicher Ansprechpartner für diese Position",
+      "initials": "DA",
+      "image": {
+        "portrait": null,
+        "closeCrop": null
+      },
+      "badges": [
+        "Persönlich",
+        "Vertraulich"
+      ]
+    },
+    "footerRef": "Entwurf",
+    "stickyDefaultTitle": "Projektleiter Hochbau · NRW"
+  }
+}

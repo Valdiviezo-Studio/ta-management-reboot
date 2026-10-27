@@ -1,0 +1,8 @@
+{
+  "jarvis-integration/build.mjs": "102630a13bf5c0a22c99a22d176a542b819f09680d79655ceb2ee7e578ace4fe",
+  "jarvis-integration/validation.mjs": "7192889ab50e2c7cbfac0a80cbd9c4b6cc3b5fb31cbbbb57a8304dd7eeee2739",
+  "netlify/functions/jarvis-apply.mjs": "c833566bbf10c71e659631f5779f7da1c8e9d3ae6e469911c5f84cb644ad6c23",
+  "netlify.toml": "06e848ffb48f3a58840977b1f7182bb16f9fcd13c14c6e5935076f5227947c5e",
+  "jarvis-integration/landingpages-headers.txt": "658b23f9e4d15ba0727d65c7cd59fba4450300665a13f71aa095bce0178f090c",
+  ".gitignore": "4b2d293d611c590e01eeb55ab5202c666a8b9284a79bf5366c38822a3b9f074d"
+}

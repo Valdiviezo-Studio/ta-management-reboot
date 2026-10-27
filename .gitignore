@@ -1,2 +1,7 @@
 # Local Netlify folder
 .netlify
+dist/
+.netlify/
+.env*
+node_modules/
+.DS_Store

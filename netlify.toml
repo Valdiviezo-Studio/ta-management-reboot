@@ -1,0 +1,10 @@
+[build]
+  command = "node jarvis-integration/build.mjs"
+  publish = "dist"
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
+[functions.jarvis-apply]
+  included_files = ["jarvis-integration/jobs/*.json"]
